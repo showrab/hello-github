@@ -1,2 +1,2 @@
 # hello-github
-Teste die funktionalitäten von GitHub
+Teste die Funktionalitäten von GitHub
